@@ -1,0 +1,3 @@
+[submodule "talentmgmt"]
+	path = talentmgmt
+	url = https://github.com/tanvi-arora/talentmgmt.git
